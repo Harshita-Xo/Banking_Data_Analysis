@@ -222,7 +222,7 @@ A supplementary Excel workbook (`Excel/Bank.xlsx`) mirrors a slice of this analy
 ![Excel Dashboard](https://github.com/Harshita-Xo/Banking_Data_Analysis/blob/main/Powerbi/Imge.png)
 
 ### Project Workflow
-![Project Workflow](WorkFlow.jpg)
+![Project Workflow](https://github.com/Harshita-Xo/Banking_Data_Analysis/blob/main/WorkFlow.jpg)
 
 ### Business Recommendations
 
