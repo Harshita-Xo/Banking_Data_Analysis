@@ -193,33 +193,33 @@ All the files, how they are connected to each other, and which fields are the pr
 The Power BI dashboard (`Power bi/Dashbored.pbix`), branded **PrimeBank**, has 8 pages with consistent left-hand navigation and Year/Month filters:
 
 **Executive Dashboard** — headline KPIs (customers, deposits, fraud %, active loans), deposits by branch, loan amount by status, accounts by status, and a monthly deposits-vs-withdrawals trend
-![Executive Dashboard](Power%20bi/1.png)
+![Executive Dashboard](https://github.com/Harshita-Xo/Banking_Data_Analysis/blob/main/Powerbi/1.png)
 
 **Customer Analysis** — demographics by gender, state, and join-year, plus income vs. credit score
-![Customer Analysis](Power%20bi/2.png)
+![Customer Analysis](https://github.com/Harshita-Xo/Banking_Data_Analysis/blob/main/Powerbi/2.png)
 
 **Branch Performance** — deposits by branch and state, and a full table of customers, deposits, loans, and staffing cost per branch
-![Branch Performance](Power%20bi/3.png)
+![Branch Performance](https://github.com/Harshita-Xo/Banking_Data_Analysis/blob/main/Powerbi/3.png)
 
 **Accounts & Transactions** — account health by type and status, plus transaction volume by channel and type
-![Accounts & Transactions](Power%20bi/4.png)
+![Accounts & Transactions](https://github.com/Harshita-Xo/Banking_Data_Analysis/blob/main/Powerbi/4.png)
 
 **Loan Analysis** — portfolio by status and loan type, interest rate, late-payment rate, and recovery rate
-![Loan Analysis](Power%20bi/5.png)
+![Loan Analysis](https://github.com/Harshita-Xo/Banking_Data_Analysis/blob/main/Powerbi/5.png)
 
 **Card & Fraud** — spend by card type, spend/fraud by merchant category, and the headline 0.50% fraud rate
-![Card & Fraud](Power%20bi/6.png)
+![Card & Fraud](https://github.com/Harshita-Xo/Banking_Data_Analysis/blob/main/Powerbi/6.png)
 
 **Customer Support** — ticket volume by issue type and status, with satisfaction score per issue type
-![Customer Support](Power%20bi/7.png)
+![Customer Support](https://github.com/Harshita-Xo/Banking_Data_Analysis/blob/main/Powerbi/7.png)
 
 **Risk Analysis** — defaults by branch and loan type, high-risk customer/branch counts, and a recommendations panel built directly into the page
-![Risk Analysis](Power%20bi/8.png)
+![Risk Analysis](https://github.com/Harshita-Xo/Banking_Data_Analysis/blob/main/Powerbi/8.png)
 
 ### Excel
 
 A supplementary Excel workbook (`Excel/Bank.xlsx`) mirrors a slice of this analysis in pivot-chart form:
-![Excel Dashboard](Excel/Dashbored%20Image.png)
+![Excel Dashboard](https://github.com/Harshita-Xo/Banking_Data_Analysis/blob/main/Powerbi/Imge.png)
 
 ### Project Workflow
 ![Project Workflow](WorkFlow.jpg)
