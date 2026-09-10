@@ -186,7 +186,7 @@ Data is bulk-loaded with PostgreSQL's `COPY` command rather than row-by-row inse
 
 All the files, how they are connected to each other, and which fields are the primary keys and foreign keys are defined in the following image.
 
-![Sechma](Sechma/Database_Schema.drawio.png)
+![Sechma](https://github.com/Harshita-Xo/Banking_Data_Analysis/blob/main/Schema/Database_Schema.drawio.png)
 
 ### Dashboard
 
